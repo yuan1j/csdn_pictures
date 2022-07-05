@@ -3,6 +3,7 @@
 https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads  
 下载Developer版本即可
 ![image](./picture/sqlserver_0_download.PNG)
+![image](https://raw.githubusercontent.com/yuan1j/csdn_pictures/main/sqlserver_and_powerbi/picture/powerbi_desktop_install_0.PNG)
 2. 点击"SQL2019-SSEI-Dev.exe",安装  
 选择基本
 ![image](./picture/sqlserver_1_install.PNG)
